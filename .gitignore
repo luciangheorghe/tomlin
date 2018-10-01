@@ -1,0 +1,10 @@
+*.sqlite3
+env.py
+__pycache__
+*.png
+*.jpg
+*.jpeg
+static/
+media/
+*.pyc
+ngrok
